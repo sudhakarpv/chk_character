@@ -9,8 +9,8 @@ def main():
         if(chk == i):
             flag+=1
     if(flag==1):
-        print("yes")
+        print("Yes")
     else:
-        print("no")
+        print("No")
 if __name__ == '__main__':
     main()
